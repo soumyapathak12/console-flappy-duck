@@ -159,13 +159,30 @@ The game uses ANSI escape codes and console manipulation to create a more visual
 
 
 
-```md
+
 ## 📸 Preview
+
 <img width="477" height="240" alt="flappyduck1" src="https://github.com/user-attachments/assets/193d37c9-2f73-4752-914a-e041b1a2c760" />
+
+
+
+
 <img width="518" height="355" alt="flappyduck2" src="https://github.com/user-attachments/assets/9e89e877-c402-41d2-897d-7b38e4b5eac5" />
+
+
+
+
 <img width="500" height="347" alt="flappyduck3" src="https://github.com/user-attachments/assets/65c0058b-6cca-4b28-92f5-4a3615f637c3" />
+
+
+
+
 <img width="192" height="168" alt="flappyduck4" src="https://github.com/user-attachments/assets/68db9165-6b69-4078-8a12-f969fe61e2a8" />
----
+
+
+
+
+----
 
 ## 📚 What I Learned
 
